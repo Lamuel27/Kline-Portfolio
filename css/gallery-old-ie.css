@@ -28,7 +28,7 @@ img:hover {
     }
 .home-menu {
     padding: 0.5em;
-    text-align: center;
+    /* text-align: center; */
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .pure-menu.pure-menu-fixed {
@@ -41,6 +41,7 @@ img:hover {
     color: white;
     font-weight: 400;
     font-size: 120%;
+    text-align: left;
 }
 .home-menu .pure-menu-selected a {
     color: white;
